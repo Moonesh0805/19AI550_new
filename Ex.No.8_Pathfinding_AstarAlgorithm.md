@@ -138,8 +138,9 @@ Check the following
 4. AICharacter assigned a start and goal
 ```
 ### Output:
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/990ee7d9-c77d-4264-88cf-40cccee23cc6" />
 
-<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/6b4260b0-db0a-4c75-b3ed-065678505690" />
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/78ed5956-0ae3-4a27-964a-816a07383272" />
 
 ### Result:
 Thus the pathfinding algorithm was sucessfully implemented.
