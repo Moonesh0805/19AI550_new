@@ -137,7 +137,9 @@ Check the following
 3. WaypointGraph script on a manager
 4. AICharacter assigned a start and goal
 ### Output:
-<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/ab3e129d-d85e-4c3d-bf57-3809ee91443b" />
+
+
+<img width="1791" height="887" alt="Screenshot 2026-05-14 041200" src="https://github.com/user-attachments/assets/a9ececb0-737c-495c-96e5-72614618dd01" />
 
 ### Result:
 Thus the pathfinding algorithm was sucessfully implemented.
