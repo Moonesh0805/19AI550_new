@@ -139,7 +139,7 @@ Check the following
 ```
 ### Output:
 
-<img width="1791" height="887" alt="image" src="https://github.com/user-attachments/assets/db98eae9-9abc-441a-bb00-c35038bd83c8" />
+<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/6b4260b0-db0a-4c75-b3ed-065678505690" />
 
 ### Result:
 Thus the pathfinding algorithm was sucessfully implemented.
